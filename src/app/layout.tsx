@@ -3,8 +3,8 @@ import "./globals.css";
 import { ServiceWorkerRegister } from "@/components/ServiceWorkerRegister";
 
 export const metadata: Metadata = {
-  title: "Mom English",
-  description: "给妈妈学习基础英语的离线应用",
+  title: "Learn English",
+  description: "学习基础英语的离线应用",
   manifest: "/manifest.webmanifest",
   appleWebApp: {
     capable: true,
