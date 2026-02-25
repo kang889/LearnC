@@ -55,8 +55,8 @@ export default function HomePage() {
   return (
     <div className="space-y-4">
       <header className="space-y-2">
-        <h1 className="text-4xl font-extrabold text-slate-900">Mom English</h1>
-        <p className="text-base text-slate-600">给妈妈的英语口语学习工具（离线可用）</p>
+        <h1 className="text-4xl font-extrabold text-slate-900">Learn English</h1>
+        <p className="text-base text-slate-600">英语口语学习工具（离线可用）</p>
       </header>
 
       <section className="grid grid-cols-2 gap-3">
